@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+yfinance
+scikit-learn
+joblib
+python-dotenv
+transformers
+torch
+apify-client
+langchain
+langchain-core
+langchain-google-genai
+langgraph
+tavily-python
